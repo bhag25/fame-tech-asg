@@ -1,0 +1,47 @@
+.bd {
+  margin: 0 25px 0 25px;
+}
+#sp {
+  color: red;
+}
+h2 {
+  color: navy;
+  text-align: center;
+}
+.p {
+  text-align: left;
+}
+.li1 {
+  font-size: 16px;
+  font-family: "Georgia";
+}
+#img1 {
+  border: 2px solid blue;
+  border-radius: 12px;
+}
+table {
+  border-collapse: collapse;
+  width: 24%;
+}
+table, th, td {
+  border: 1px solid black;
+  text-align: ;
+}
+th{
+  background-color: blue;
+  color: white;
+}
+.td , .th {
+  border-color: black;
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+}
+a {
+  color: green;
+}
+a:hover {
+  color: blue;
+}
+a:visited {
+  color: grey;
+}
